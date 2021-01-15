@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#header{
+    background-color: #f3f7eb;
+  }
+
+.moon-color{
+    color: #76c27e
+}
+
+.head-size{
+    font-size: 80px;
+    color: #393b58
+}
+
+.primary-font {
+    font-family: 'Roboto', sans-serif;
+  }
+  .secondary-font{
+    font-family: 'Bebas Neue', cursive;
+  }
+
+  .navbar-logo{
+      width: 300px;
+  }
+  .cart-logo{
+      width: 25px;
+      margin: 5px;
+  }
+  .btn-buy{
+      
+    background-color: #393b58;
+    color: #fff;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 10px;
+  }
