@@ -1,43 +1,136 @@
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-
 #header{
-    background-color: #f3f7eb;
-  }
-
-.moon-color{
-    color: #76c27e
+  background-color: #f3f7eb;
 }
 
 .head-size{
-    font-size: 80px;
-    color: #393b58
+  font-size: 90px;
+  color: #393b58
+}
+.top-text{
+font-size: 20px;
+font-weight: 500;}
+.main-color{
+color: #393b58
+}
+.second-color{
+color: #76c27e
+}
+.primary-font {
+  font-family: 'Roboto', sans-serif;
+}
+.secondary-font{
+  font-family: 'Bebas Neue', cursive;
 }
 
-.primary-font {
-    font-family: 'Roboto', sans-serif;
-  }
-  .secondary-font{
-    font-family: 'Bebas Neue', cursive;
-  }
+.navbar-logo{
+    width: 400px;
+}
+.cart-logo{
+    width: 25px;
+    margin: 5px;
+}
 
-  .navbar-logo{
-      width: 300px;
-  }
-  .cart-logo{
-      width: 25px;
-      margin: 5px;
-  }
-  .btn-buy{
-      
-    background-color: #393b58;
-    color: #fff;
-    padding: 15px 30px;
-    font-size: 20px;
-    font-weight: 700;
-    border-radius: 10px;
-  }
+
+.btn-buy{
+  background-color: #393b58;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 10px;
+}
+
+.btn-buy:hover{
+  
+  background-color: #76c27e
+}
+
+.mid-sec{
+  border-radius: 50px;
+}
+
+.mid-sec-card img {
+  width: 78px;
+  height: 80px;
+} 
+
+.casual-backpack h2{
+color: #393b58;
+margin-left: 500px;
+font-size: 50px;
+padding: 30px;
+}
+
+.travel-backpack h2{
+color: #393b58;
+margin-left: 500px;
+font-size: 50px;
+padding: 30px;
+margin-top: 30px;
+}
+
+.card img {
+width: 200px;
+margin: 0 auto;
+margin-top: 50px;
+}
+.card-title{
+color: #363958;
+font-size: 25px;
+font-weight: 800;
+}
+.card-text{
+color: #3E3E3E;
+font-size: 20px;
+}
+.card-price h1{
+color: #76c27e;
+font-size: 35px;
+font-weight: 700;
+}
+
+.buy-button{
+background-color: #393b58;
+color: #fff;
+font-size: 20px;
+border: none;
+padding: 15px 25px;
+font-weight: 500;
+float: right;
+border-radius: 10px;
+}
+
+.customer-review{
+margin-bottom: 40px;
+}
+.customer-review h2{
+color: #393b58;
+text-align: center;
+font-size: 50px;
+margin-top: 50px;
+padding: 50px;
+}
+
+
+.footer{
+padding: 50px;
+background-color:  #f3f7eb;;
+}
+
+
+
+.mid-sec{
+border-radius: 50px;
+}
+
+
+.mid-sec-card img {
+width: 78px;
+height: 80px;
+} 
